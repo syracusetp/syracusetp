@@ -1,6 +1,7 @@
 # Bunmi Otegbade
 
-Society-wide, irreversible change for the good of all. 
+*Impact x Technology x Finance*
+
 
 **Selected Work in Progress**
 
@@ -26,3 +27,9 @@ Bunmi Otegbade is a global impact leader with a background in technology and sus
 Bunmi is also a venture investor (25 portfolio companies), both debt and equity, in fast-growing technology firms in life sciences, deep tech, clean energy, and inclusive financial technologies in emerging markets with a focus on Africa. His interests range from innovation policy and technology transfer to the financial market institutions that drive inclusive economic development in emerging markets. 
 
 He holds a Master’s in Public Policy (MPP) from Princeton University, and a BSc in Electrical and Computer Engineering from Baylor University.
+
+
+<br>
+  Impact: Society-wide, irreversible change at global scale, for the good of all.<br> 
+  Tech: Tech transfer for equity <br>
+  Finance: Early-stage bets that advance human potential through creative alternative financing mechanisms.
