@@ -25,9 +25,10 @@ B. Otegbade, IP. Hallerbach, D. Matielo de Carvalho
 - United States, countrywide with Title I (low-income neighborhood) schools. Designed and developed with John Gamba at the University of Pennsylvania Graduate School of Education and Michelle Blanchet at The Educators Lab. Distributive partnerships with American Federation of Teachers and First Book. [[Website]](https://chibuzor.notion.site/Every-Teacher-a-Changemaker-b741ff2468a7492b930b22bcbc00439b?pvs=4)
 - Nigeria, Indonesia, United Kingdom.
 
-"**The Global African**" (2022 - )
-
-Early investments in technology and IP through MStreet Ventures.
+"**The Global African**" (2023 - )
+- Global network cultivated through semi-formal small rooms.
+- Early investments in technology and IP through MStreet Ventures.
+- Youth and innovation ecosystems, universities, government leadership.
 
 **Brief Bio**
 
