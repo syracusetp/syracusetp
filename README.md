@@ -21,16 +21,17 @@ B. Otegbade, IP. Hallerbach, D. Matielo de Carvalho
  <br>
 
 ### <code style="color : red"> **Movements-in-Progress** </code> 
-"**Every Teacher a Changemaker**" (2021 - ) brings a new paradigm of teacher-student norms to empower educators to empower students to become Changemakers.
-- United States, countrywide with Title I (low-income neighborhood) schools. Designed and developed with John Gamba at the University of Pennsylvania Graduate School of Education and Michelle Blanchet at The Educators Lab. Distributive partnerships with American Federation of Teachers and First Book. [[Website]](https://chibuzor.notion.site/Every-Teacher-a-Changemaker-b741ff2468a7492b930b22bcbc00439b?pvs=4)
-- Nigeria, Indonesia, United Kingdom.
+"**Every Teacher a Changemaker**" (2021 - ) brings a new paradigm to teacher-student norms: empower educators to empower students to become Changemakers.
+- **United States**, [[ETACH US]](https://chibuzor.notion.site/Every-Teacher-a-Changemaker-b741ff2468a7492b930b22bcbc00439b?pvs=4) countrywide with Title I (low-income neighborhood) schools. Designed with John Gamba, [[Penn GSE]](https://www.gse.upenn.edu/) and Michelle Blanchet, [[The Educators Lab]](https://theeducatorslab.com/edu-changemakers). Collaboration with American Federation of Teachers and First Book. 
+- Coming soon: **Nigeria** with the National Open Univesity of Nigeria; **Indonesia** with Muhammadiyah; and the **United Kingdom**.
 
 "**The Global African**" (2023 - )
 - Global network cultivated through semi-formal small rooms.
 - Early investments in technology and IP through MStreet Ventures.
 - Youth and innovation ecosystems, universities, government leadership.
 
-**Brief Bio**
+
+### <code style="color : red"> **Short Biography** </code>
 
 Bunmi Otegbade is a global impact leader with a background in technology and sustainable finance. He is currently Senior Director at Ashoka, where he leads knowledge production for peer-driven networks, AI Governance, and strategic institutional partnerships in North America. 
 
