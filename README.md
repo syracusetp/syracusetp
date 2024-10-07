@@ -20,6 +20,15 @@ B. Otegbade, IP. Hallerbach, D. Matielo de Carvalho
  <br>
  <br>
 
+### <code style="color : red"> **Movements-in-Progress** </code> 
+"**Every Teacher a Changemaker**" (2021 - ) brings a new paradigm of teacher-student norms to empower educators to empower students to become Changemakers.
+- United States, countrywide with Title I (low-income neighborhood) schools. Designed and developed with John Gamba at the University of Pennsylvania Graduate School of Education and Michelle Blanchet at The Educators Lab. Distributive partnerships with American Federation of Teachers and First Book. [[Website]](https://chibuzor.notion.site/Every-Teacher-a-Changemaker-b741ff2468a7492b930b22bcbc00439b?pvs=4)
+- Nigeria, Indonesia, United Kingdom.
+
+"**The Global African**" (2022 - )
+
+Early investments in technology and IP through MStreet Ventures.
+
 **Brief Bio**
 
 Bunmi Otegbade is a global impact leader with a background in technology and sustainable finance. He is currently Senior Director at Ashoka, where he leads knowledge production for peer-driven networks, AI Governance, and strategic institutional partnerships in North America. 
