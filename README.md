@@ -30,6 +30,16 @@ B. Otegbade, IP. Hallerbach, D. Matielo de Carvalho
 - Early investments in technology and IP through MStreet Ventures.
 - Youth and innovation ecosystems, universities, government leadership.
 
+### <code style="color : red"> **Teaching** </code> 
+
+**"The Future of Work"** | _The Wharton School at the University of Pennsylvania_ <br>
+Dr. Kanyinsola Obayan Arigi, Lauder Institute | INTS 5930: African Futures |  Mar 2024
+
+**"Generative AI and Social Impact Collaboration"** | _University of Cambridge_ <br>
+Prof. Michael Barrett, Cambridge Judge School of Business and Cambridge Digital Innovation | Oct 2023
+
+**Others**: <br>
+"Peer Networks for Diaspora Movement Building", Madrid, Spain (ADSEN, Sep 2023)
 
 ### <code style="color : red"> **Short Biography** </code>
 
