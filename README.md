@@ -39,7 +39,7 @@ Dr. Kanyinsola Obayan Arigi, Lauder Institute | INTS 5930: African Futures |  Ma
 Prof. Michael Barrett, Cambridge Judge School of Business and Cambridge Digital Innovation | Oct 2023
 
 **Others**: <br>
-"Peer Networks for Diaspora Movement Building", Madrid, Spain (ADSEN, Sep 2023)
+"Peer Networks for Diaspora Movement Building", _Madrid, Spain_ (ADSEN, Sep 2023)
 
 ### <code style="color : red"> **Short Biography** </code>
 
@@ -49,8 +49,9 @@ Bunmi is also a venture investor (25 portfolio companies), both debt and equity,
 
 He holds a Master’s in Public Policy (MPP) from Princeton University, and a BSc in Electrical and Computer Engineering from Baylor University.
 
-
-<br>
-  Impact: Society-wide, irreversible change at global scale, for the good of all.<br> 
-  Tech: Tech transfer for equity <br>
-  Finance: Early-stage bets that advance human potential through creative alternative financing mechanisms.
+******
+<br> **Key**
+  - **Impact** _means_ Society-wide, irreversible change at global scale, for the good of all.<br> 
+  - **Tech** _means_ Tech transfer for equity, Generative AI for Collaboration for Good, applied Machine Learning <br>
+  - **Finance** _means_ Early bets that advance human potential through creative alternative financing mechanisms: climate finance in EVs ($0.5M debt), venture investing (25 companies), venture finance (raised for $75m VC) <br>
+- **Networks** _means_ network theory and 300 global diaspora network of networkers
