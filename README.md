@@ -2,6 +2,7 @@
 
 *Impact x Technology x Finance*
 
+**Large Scale Youth School-to-Work Transition Papers** [[Papers](https://bolowo.notion.site/B-Otegbade-Site-23962618c6f880ba85e0d320ee145f54?source=copy_link)]<br>
 
 **Selected Work in Progress**
 
