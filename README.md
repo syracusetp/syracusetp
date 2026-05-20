@@ -39,7 +39,7 @@ Prof. Michael Barrett, Cambridge Judge School of Business and Cambridge Digital 
 - **United States**, [[ETACH US]](https://chibuzor.notion.site/Every-Teacher-a-Changemaker-b741ff2468a7492b930b22bcbc00439b?pvs=4) countrywide with Title I (low-income neighborhood) schools. Designed with John Gamba, [[Penn GSE]](https://www.gse.upenn.edu/) and Michelle Blanchet, [[The Educators Lab]](https://theeducatorslab.com/edu-changemakers). Collaboration with American Federation of Teachers and First Book. 
 - Coming soon: **Nigeria** with the National Open Univesity of Nigeria; **Indonesia** with Muhammadiyah; and the **United Kingdom**.
 
-"**The Global African**" (2023 - )
+"**The Global African**" (2023 - ) [[tgafrican.com]](https://www.tgafrican.com)
 - Global network cultivated through semi-formal small rooms.
 - Early investments in technology and IP through MStreet Ventures.
 - Youth and innovation ecosystems, universities, government leadership.
