@@ -46,7 +46,7 @@ Prof. Michael Barrett, Cambridge Judge School of Business and Cambridge Digital 
 
 ### <code style="color : red"> **Short Biography** </code>
 
-Bunmi Otegbade is a global impact leader with a background in technology and sustainable finance. He is currently Senior Director at Ashoka, where he leads knowledge production for peer-driven networks, AI Governance, and strategic institutional partnerships in North America. 
+Bunmi Otegbade is a global impact leader in technology and sustainable finance. He is currently a Global Senior Director at Ashoka, where he leads product, revenue and go-to-market architectures, knowledge production for peer networks, AI Governance, and strategic institutional partnerships in North America. 
 
 Bunmi is also a venture investor (25 portfolio companies), both debt and equity, in fast-growing technology firms in life sciences, deep tech, clean energy, and inclusive financial technologies in emerging markets with a focus on Africa. His interests range from innovation policy and technology transfer to the financial market institutions that drive inclusive economic development in emerging markets. 
 
